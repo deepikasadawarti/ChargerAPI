@@ -1,0 +1,14 @@
+C:\Users\deepika sadawarti\source\repos\ChargerInfo.API\obj\Debug\netcoreapp2.2\ChargerInfo.API.csprojAssemblyReference.cache
+C:\Users\deepika sadawarti\source\repos\ChargerInfo.API\obj\Debug\netcoreapp2.2\ChargerInfo.API.csproj.CoreCompileInputs.cache
+C:\Users\deepika sadawarti\source\repos\ChargerInfo.API\obj\Debug\netcoreapp2.2\ChargerInfo.API.RazorAssemblyInfo.cache
+C:\Users\deepika sadawarti\source\repos\ChargerInfo.API\obj\Debug\netcoreapp2.2\ChargerInfo.API.RazorAssemblyInfo.cs
+C:\Users\deepika sadawarti\source\repos\ChargerInfo.API\obj\Debug\netcoreapp2.2\ChargerInfo.API.AssemblyInfoInputs.cache
+C:\Users\deepika sadawarti\source\repos\ChargerInfo.API\obj\Debug\netcoreapp2.2\ChargerInfo.API.AssemblyInfo.cs
+C:\Users\deepika sadawarti\source\repos\ChargerInfo.API\bin\Debug\netcoreapp2.2\ChargerInfo.API.deps.json
+C:\Users\deepika sadawarti\source\repos\ChargerInfo.API\bin\Debug\netcoreapp2.2\ChargerInfo.API.runtimeconfig.json
+C:\Users\deepika sadawarti\source\repos\ChargerInfo.API\bin\Debug\netcoreapp2.2\ChargerInfo.API.runtimeconfig.dev.json
+C:\Users\deepika sadawarti\source\repos\ChargerInfo.API\bin\Debug\netcoreapp2.2\ChargerInfo.API.dll
+C:\Users\deepika sadawarti\source\repos\ChargerInfo.API\bin\Debug\netcoreapp2.2\ChargerInfo.API.pdb
+C:\Users\deepika sadawarti\source\repos\ChargerInfo.API\obj\Debug\netcoreapp2.2\ChargerInfo.API.RazorTargetAssemblyInfo.cache
+C:\Users\deepika sadawarti\source\repos\ChargerInfo.API\obj\Debug\netcoreapp2.2\ChargerInfo.API.dll
+C:\Users\deepika sadawarti\source\repos\ChargerInfo.API\obj\Debug\netcoreapp2.2\ChargerInfo.API.pdb
